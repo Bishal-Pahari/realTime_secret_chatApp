@@ -7,5 +7,5 @@
 - clone this repo.
 - open the folder then install dependencies
   ```npm i```
-- start, ```npm index.js```
+- start, ```node index.js```
 - go to browser and type: ```http://localhost:9000/```
